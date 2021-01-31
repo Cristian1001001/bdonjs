@@ -1,0 +1,16 @@
+.cart-container{
+    margin-top: 5rem;
+}
+
+.cart-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-color: lightcoral;
+}
+.cart-quantity{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

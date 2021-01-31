@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "cristi learns mern",
+  "mongoUrl": "mongodb+srv://root:1234q@cluster0.rjexs.mongodb.net/app?retryWrites=true&w=majority"
+}
